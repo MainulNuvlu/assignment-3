@@ -4,7 +4,7 @@ module.exports = {
     theme: {
         extend: {},
     },
-    // plugins: [],
+    plugins: [],
     // theme: {
     //     extend: {
     //         keyframes: {
@@ -19,5 +19,7 @@ module.exports = {
     //             gradient: "gradient 6s linear infinite",
     //         },
     //     },
-    // },
-},
+
+}
+
+
